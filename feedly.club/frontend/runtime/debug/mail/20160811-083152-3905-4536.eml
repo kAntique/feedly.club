@@ -1,0 +1,55 @@
+Message-ID: <e3b4ef510df598c918ad89218d019882@localhost>
+Date: Thu, 11 Aug 2016 08:31:46 +0200
+Subject: Password reset for My Application
+From: My Application robot <support@example.com>
+To: kritsada.swe@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1470897106_ac8050088f3b1bc5164605c71f4c06bd_=_"
+
+
+--_=_swift_v4_1470897106_ac8050088f3b1bc5164605c71f4c06bd_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello kritsada,
+
+Follow the link below to reset your password:
+
+htt=
+p://localhost/feedly/feedly.club/frontend/web/index.php?r=3Dsite%2Freset-pa=
+ssword&token=3Dbl0ie9oKFFEgZogUDogWweYYyAgi3gav_1470897105
+
+--_=_swift_v4_1470897106_ac8050088f3b1bc5164605c71f4c06bd_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"password-reset">
+    <p>Hello kritsada,</p>
+
+    <p=
+>Follow the link below to reset your password:</p>
+
+    <p><a href=3D"h=
+ttp://localhost/feedly/feedly.club/frontend/web/index.php?r=3Dsite%2Freset-=
+password&amp;token=3Dbl0ie9oKFFEgZogUDogWweYYyAgi3gav_1470897105">http://lo=
+calhost/feedly/feedly.club/frontend/web/index.php?r=3Dsite%2Freset-password=
+&amp;token=3Dbl0ie9oKFFEgZogUDogWweYYyAgi3gav_1470897105</a></p>
+</div>=
+
+    </body>
+</html>
+
+
+--_=_swift_v4_1470897106_ac8050088f3b1bc5164605c71f4c06bd_=_--
